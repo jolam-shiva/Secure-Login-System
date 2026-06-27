@@ -1,0 +1,6 @@
+flask
+flask-bcrypt
+flask-session
+flask-limiter
+pyotp
+qrcode[pil]
